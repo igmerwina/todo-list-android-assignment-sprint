@@ -6,7 +6,13 @@ Backend with [json-server](https://github.com/typicode/json-server)
 
 ---
 
-### > How To Run Backend: 
+### How To Run Backend: 
 Move into backend folder, then ``npm i``
 
-then start from android studio :smile:
+Turn the server on: 
+
+``json-server --watch db.json``
+
+run app from android studio :smile:
+
+© [@igmerwina](http://instagram.com/igmerwina) | ®2019
