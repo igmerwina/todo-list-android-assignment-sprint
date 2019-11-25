@@ -1,0 +1,24 @@
+{
+  "todo": [
+    {
+      "id": "1",
+      "message": "Learn Android"
+    },
+    {
+      "id": "2",
+      "message": "Learn React Native"
+    },
+    {
+      "message": "Learn PDS Pegadaian",
+      "id": "WRCh1wm"
+    },
+    {
+      "message": "Be Happy :)",
+      "id": "qzF9FWI"
+    },
+    {
+      "message": "Save The Planet",
+      "id": "6Xk_0V7"
+    }
+  ]
+}

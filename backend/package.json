@@ -1,0 +1,17 @@
+{
+  "name": "todo-backend",
+  "version": "0.1.0",
+  "description": "backend for todo list kelompok 1 sprint B ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "backend"
+  ],
+  "author": "@igmerwina",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.15.1"
+  }
+}
