@@ -63,7 +63,6 @@ public class MainActivity extends AppCompatActivity implements Response.Listener
                     .setTitle("Error")
                     .setMessage(error.toString())
                     .show();
-
         }
     }
 
